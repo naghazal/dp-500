@@ -12,6 +12,7 @@
 ## Catalog data artifacts by using Microsoft Purview [[learn module]](https://learn.microsoft.com/training/modules/catalog-data-artifacts-use-microsoft-purview)
 
 - [[Demo]](https://youtu.be/qbZRtS1uOZo)
+- Demo files: [AccountNumbers.csv](/demo/Module-02/AccountNumbers.csv)
 
 ## Manage Power BI assets by using Microsoft Purview [[learn module]](https://learn.microsoft.com/training/modules/manage-power-bi-artifacts-use-microsoft-purview)
 
